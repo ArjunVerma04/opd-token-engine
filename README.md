@@ -284,7 +284,6 @@ Runs on: `http://localhost:3001`
 ## 👨‍💻 Author
 
 **Arjun Verma**
-Backend Intern Assignment – Medoc Health
 
 ---
 
